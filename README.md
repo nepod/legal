@@ -1,0 +1,2 @@
+# legal
+GitHub Pages
